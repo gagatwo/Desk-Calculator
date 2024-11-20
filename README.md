@@ -1,4 +1,4 @@
-Assembly로 구현한 Desk Calculator
+Assembly language로 구현한 Desk Calculator
 
 - 역폴란드 표기법 기반의 간단한 계산 프로그램입니다.
 - 가능한 연산은 ' +, -, *, /, %, ^'이다.
